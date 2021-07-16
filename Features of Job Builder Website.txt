@@ -1,0 +1,10 @@
+1. API/ Web Scraping feature automated.
+2. Jobs recommended to you that fit your profile
+3. User created sales pitch 
+4. Resume Upload/Edit (maybe even a resume template/generator?)
+5. Calendar with reminders/actions/links to action items.  Potentially even just a timeline.
+6. Toggle to whether you've applied/saved/liked jobs.  Interested button
+7. Company Model/ feature of a Job Model
+8. position/ location interests get saved to your profile.
+9. Connect with other Users.
+10. 
